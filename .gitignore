@@ -1,3 +1,11 @@
 *.csv
 *.pqt
 *.parquet
+
+# Virtual env
+.venv
+
+# Config folders
+.ipynb_checkpoints
+.vscode
+
